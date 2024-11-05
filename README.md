@@ -84,5 +84,8 @@ https://wandb.ai/PrakyathDl/Human_Emotion_Detection/reports/Human-Emotion-Detect
 ## Conclusion
 This project demonstrates the use of CNNs for emotion detection from images. While LeNet provides a good starting point, there are opportunities to enhance performance with more complex architectures and optimized training techniques.
 
+## Acknowledgment
+This work is based on the curriculum provided by [freeCodeCamp.org](https://www.freecodecamp.org/). Special thanks to them for offering high-quality, accessible educational content for learners worldwide.
+
 ## References
 - Kaggle Dataset: [Emotion Detection Images](https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes)
